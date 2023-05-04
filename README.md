@@ -1,7 +1,7 @@
 # Hi, I'm [Phil](https://www.phillip-elliott.com/) 👋
 
 # 💫 About Me:
-🔭 I’m currently working on improving my Skills.<br>🌱 I’m learning more about Frontend Development.<br>🤔 I’m looking for a Frontend Development position.<br>📫 How to reach me: Email - phillippelliott@gmail.com
+🔭 I’m currently working on improving my Skills.<br>🌱 I’m learning about Backend Development.<br>🤔 I’m looking for a Frontend Development position.<br>📫 How to reach me: Email - phillippelliott@gmail.com
 
 
 ## 🌐 Socials:
