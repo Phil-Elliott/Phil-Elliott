@@ -5,7 +5,7 @@
 🌱 I’m delving into Backend Development.<br>
 🤔 Actively seeking opportunities in Frontend Development.<br>
 📧 Interested in collaborating or chatting? Reach out via [email](mailto:phillippelliott@gmail.com).<br>
-🌐 Explore my work on my [Portfolio](https://www.phillip-elliott.com/portfolio).<br>
+🌐 Explore my work on my [Portfolio](https://www.phillip-elliott.com).<br>
 🔗 Let's connect on [LinkedIn](https://linkedin.com/in/phil-p-elliott)
 
 # 💻 Tech Stack:
